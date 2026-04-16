@@ -29,8 +29,8 @@ Criar uma aplicação web utilizando **JavaScript puro (Vanilla JS)** para consu
 
 ## 🔗 Acesse o Projeto
 
-- 💻 GitHub: [COLE AQUI O LINK]
-- 🌐 GitHub Pages: [COLE AQUI O LINK]
+- 💻 GitHub: [https://github.com/alexiactrindade/p1-Programa-o-de-S-tios-Internet-FATEC-2026)]
+- 🌐 GitHub Pages: [https://alexiactrindade.github.io/p1-Programa-o-de-S-tios-Internet-FATEC-2026/]
 
 ---
 
@@ -54,7 +54,7 @@ A aplicação permite buscar personagens em uma API pública e exibir suas infor
 
 Confira a publicação sobre este projeto:
 
-👉 [COLE AQUI O LINK DO POST]
+👉 [https://www.linkedin.com/posts/alexiatrindade_montei-um-buscador-de-drinks-inspirado-no-ugcPost-7450624434970877954-wLF3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwCSFoB9u_k3xvFkQjCKN2OoFRtv6UW4ys]
 
 ---
 

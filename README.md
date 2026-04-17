@@ -54,7 +54,7 @@ A aplicação permite buscar personagens em uma API pública e exibir suas infor
 
 Confira a publicação sobre este projeto:
 
-👉 [https://www.linkedin.com/posts/alexiatrindade_montei-um-buscador-de-drinks-inspirado-no-ugcPost-7450624434970877954-wLF3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwCSFoB9u_k3xvFkQjCKN2OoFRtv6UW4ys]
+👉 [https://www.linkedin.com/posts/alexiatrindade_neste-trabalho-integrei-uma-api-p%C3%BAblica-ugcPost-7450880591417241600-J_2b?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwCSFoB9u_k3xvFkQjCKN2OoFRtv6UW4ys]
 
 ---
 

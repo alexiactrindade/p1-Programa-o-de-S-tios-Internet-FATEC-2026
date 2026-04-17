@@ -6,7 +6,7 @@ function gerarDrink(urlImagem) {
     imagem.src = urlImagem 
 
     galeria.append(imagem)
-}
+} 
 
 async function captarFotosAPI() { 
     const drink = document.getElementById('drink').value 
@@ -16,7 +16,7 @@ async function captarFotosAPI() {
     const data = await response.json()
 
     const galeria = document.getElementById('galeria')
-    galeria.innerHTML = ''
+    galeria.replaceChildren() 
 
     if (!data.drinks) {
         mostrarErro('Não contém drink com esse nome')

@@ -74,7 +74,7 @@ Os cards são criados dinamicamente? (1,5)  - SIM
 - [ ] Foi utilizado métodos para criar os novos elementos HTML? (1,5)  - SIM
 - [ ] O consumo de API foi feito usando o fetch()? (1,5)  - SIM
 - [ ] Incluiu tratamento de erro no campo de busca? (0,5)  - SIM
-- [ ] Está responsivo? (1,0)  - SIM
+- [ ] Está responsivo? (1,0)  - NÃO
 - [ ] Foi criado o README com informações do projeto? (1,0)  - SIM
 - [ ] Foi habilitado o GitHub Pages? (0,5)  - SIM
 - [ ] Foi publicado no LinkedIn? (0,5)  - SIM
